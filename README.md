@@ -12,7 +12,7 @@
 
 ### ***Links rápidos***
 
-- **Primeira vez utilizando o python ?** *Clique aqui* e acesse nosso curso curso Gratuito.
+- **Primeira vez utilizando o python ?** *Clique aqui* e acesse nosso curso Gratuito.
 - Comunidade :  ***A & A (Alunos para Alunos) : Facebook, Telegram e ~~`Website em construçao`~~***
 
 Lembre-se este material não esta completo ainda, estou fazendo as alteraçoes necessárias para facilitar o aprendizado 
