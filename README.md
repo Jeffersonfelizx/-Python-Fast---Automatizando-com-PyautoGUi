@@ -127,4 +127,4 @@ pyautogui.mouseDown()
 pyautogui.mouseUp()
 ```
 
-# Projeto final criando uma automação para o Git, subir os projetos automaticamente.
+# Projeto final : Criando uma automação para subir Projeto para o GITHUB Automaticamente
